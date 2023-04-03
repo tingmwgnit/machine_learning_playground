@@ -5,5 +5,5 @@ This repository is where I practice machine learning methods on interesting data
 + Clustering
     + Centroid based methods:
         + K-means algorithm
-            1. online shopper intention: https://github.com/tingmwgnit/machine_learning_playground/blob/main/k_means/online_shoppers_intention.ipynb
+            1. online shopper intention: https://github.com/tingmwgnit/machine_learning_playground/blob/main/online_shoppers_intention.ipynb
     + Distribution based methods:
