@@ -2,8 +2,7 @@
 This repository is where I practice machine learning methods on interesting datasets to draw meaningful insights.
  
     
-# Supervised Learning 
-### (labled data)
+# Supervised Learning ### (labled data)
 +
 
 # Semi-supervised learning 
