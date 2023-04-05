@@ -1,15 +1,19 @@
 # machine_learning_playground
 This repository is where I practice machine learning methods on interesting datasets to draw meaningful insights.
  
-# Unsupervised
+    
+# Supervised Learning (labled data)
++
+
+# Semi-supervised learning (partially labled data)
++
+
+# Unsupervised Learning (unlabeld data)
 + Clustering
     + Centroid based methods:
         + K-means algorithm
-            1. 💻💰 Online Shopper Intention (group users into target costumers and uninterested costumers using their page visiting history, some business insights and visualizations are also included in this project):  https://github.com/tingmwgnit/machine_learning_playground/blob/main/online_shoppers_intention.ipynb
+            1. 💻💰 Online Shopper Intention (customer segmentation using their page visiting history, some business insights and visualizations are also included in this project):  https://github.com/tingmwgnit/machine_learning_playground/blob/main/online_shoppers_intention.ipynb
     + Distribution based methods:
-    
-# Semi-supervised learning
+
+# Self-Supervised Learning (use unlabled data to do supervised learning tasks)
 +
-    
-# Supervised
-+ 
