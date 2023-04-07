@@ -1,5 +1,5 @@
 # machine_learning_playground
-This repository is where I practice machine learning methods on interesting datasets to draw meaningful insights.
+This repository is where I practice machine learning methods (using Python and R) on interesting datasets to draw meaningful insights. 
  
     
 # Supervised Learning (labled data)
