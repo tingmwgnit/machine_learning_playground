@@ -9,11 +9,9 @@ This repository is where I practice machine learning methods (using Python and R
 +
 
 # Unsupervised Learning (unlabeld data)
-+ Clustering
-    + Centroid based methods:
-        + K-means algorithm
-            1. 💻💰 Online Shopper Intention (customer segmentation using their page visiting history, some business insights and visualizations are also included in this project):  https://github.com/tingmwgnit/machine_learning_playground/blob/main/online_shoppers_intention.ipynb
-    + Distribution based methods:
+Customer Segmentation:
+1. 💻💰 Online Shopper Intention (customer segmentation based on their page visiting history using the K-means algorithm, some business insights and visualizations are also included in this project):  https://github.com/tingmwgnit/machine_learning_playground/blob/main/online_shoppers_intention.ipynb
+
 
 # Self-Supervised Learning (use unlabled data to complete tasks that are usually done with labled data)
 +
