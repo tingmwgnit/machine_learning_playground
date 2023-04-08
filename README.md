@@ -3,7 +3,7 @@ This repository is where I practice machine learning methods on interesting data
  
     
 # Supervised Learning (labled data)
-+
+1. predict the presence of kidney stones based on urine analysis:
 
 # Semi-supervised learning (partially labled data)
 +
