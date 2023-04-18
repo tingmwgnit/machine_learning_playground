@@ -7,7 +7,7 @@ This repository is where I practice machine learning methods on interesting data
 2. 👨‍⚕️ Kidney Stone Prediction (binary classification, predict the presence of kidney stones based on urine analysis):
 
 # Semi-supervised learning (partially labled data)
-This is a branch of machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training, it's useful when labeld data is expensive to obtain.
+This is a branch of machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training, it's useful when labeld data is expensive to obtain. \
 +
 
 # Unsupervised Learning (unlabeld data)
