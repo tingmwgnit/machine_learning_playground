@@ -4,10 +4,9 @@ This repository is where I practice machine learning methods on interesting data
     
 # Supervised Learning (labled data)
 1. 🚢 Titanic Survival Prediction (binary classification, using random forest algorithm to predict the survival of Titanic passengers based on their demographic information, coded in R): https://github.com/tingmwgnit/machine_learning_playground/blob/main/titanic/titanic_survival_prediction.ipynb
-2. 👨‍⚕️ Kidney Stone Prediction (binary classification, predict the presence of kidney stones based on urine analysis):
 
 # Semi-supervised learning (partially labled data)
-This is a branch of machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training, it's useful when labeld data is expensive to obtain. 
+This is a branch of machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training, it's useful when labeld data is expensive to obtain. \
 1. 
 
 # Unsupervised Learning (unlabeld data)
